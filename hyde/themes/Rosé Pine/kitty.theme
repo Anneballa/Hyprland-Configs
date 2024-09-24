@@ -1,0 +1,56 @@
+## name: Rosé Pine
+## author: mvllow
+## license: MIT
+## upstream: https://github.com/rose-pine/kitty/blob/main/dist/rose-pine.conf
+## blurb: All natural pine, faux fur and a bit of soho vibes for the classy minimalist
+
+foreground               #ffffff
+background               #000000
+selection_foreground     #000000
+selection_background     #ffffff
+
+cursor                   #ffffff
+cursor_text_color        #000000
+
+url_color                #db8ceb
+
+active_tab_foreground    #ffffff
+active_tab_background    #000000
+inactive_tab_foreground  #6e6a86
+inactive_tab_background  #000000
+
+active_border_color      #53ffcb
+inactive_border_color    #403d52
+
+# black
+color0   #26233a
+color8   #6e6a86
+
+# red
+color1   #fb003a
+color9   #eb6f92
+
+# green
+color2   #53ffcb
+color10  #53ffcb
+
+# yellow
+color3   #ffa200
+color11  #ffa200
+
+# blue
+color4   #00b2fe
+color12  #00b2fe
+
+# magenta
+color5   #db8ceb
+color13  #db8ceb
+
+# cyan
+color6   #00FF00
+color14  #00FF00
+
+# white
+color7   #ffffff
+color15  #ffffff
+
